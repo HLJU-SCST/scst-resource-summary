@@ -18,12 +18,22 @@
 
 9、Markdown
 
-10、图表类 
+10、图表类 : Ecahrts 、highcharts 、d3.js、Goggle charts、 plottablejs 等
 
-谷歌地图 、 Ecahrts、leaflet 等
+11、 地图类： 谷歌地图 、leaflet 等
 
-11、移动端 api
+12、移动端 api
 
-12、微信小程序
+13、微信小程序
+
+14、前端性能优化
+
+15、前端工程化
+
+16、js异步编程
+
+17、webpack打包工具
+
+18、cavas进阶
 
 ...
